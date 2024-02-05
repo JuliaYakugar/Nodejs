@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstName": "Sonya",
+    "lastName": "Posso",
+    "age": 15,
+    "city": "Paris"
+  },
+  {
+    "id": 2,
+    "firstName": "Lea",
+    "lastName": "Posso",
+    "age": 18,
+    "city": "Paris"
+  },
+  {
+    "id": 3,
+    "firstName": "Sonya",
+    "lastName": "Posso",
+    "age": 18,
+    "city": "Paris"
+  }
+]
